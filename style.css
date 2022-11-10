@@ -38,8 +38,8 @@ section#telefone{
 
 iframe#tela{
     position: relative;
-    top: 22px;
-    left: 24px;
+    top: 21px;
+    left: 21px;
     width: 254px;
     height: 541px;
     border-radius: 23px;
@@ -47,7 +47,7 @@ iframe#tela{
 
 section#botoes{
     text-align:right;
-    padding-top: 120px;
+    padding-top: 15px;
     padding-right: 15px;
 }
 
