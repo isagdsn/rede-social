@@ -5,6 +5,11 @@
     padding: 0px;
 }
 
+::-webkit-scrollbar{
+    margin: 0px;
+    padding: 0px;
+}
+
 html, body{
     width: 100vw;
     height: 100vh;
@@ -48,6 +53,7 @@ iframe#tela{
 section#botoes{
     text-align:right;
     padding-top: 15px;
+    margin-right: -12px;
     
 }
 
